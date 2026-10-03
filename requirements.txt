@@ -1,0 +1,5 @@
+tensorflow>=2.15
+torch>=2.1
+torchvision>=0.16
+opencv-python>=4.8
+numpy
